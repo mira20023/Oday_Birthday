@@ -1,0 +1,88 @@
+{
+  "name": "عدي",
+  "age": 20,
+  "headline": "كبرت سنة… بس الكيكة إلنا! 😂",
+  "heroGif": "/reactions/minion.gif",
+  "intro": "ميرا وجوري قرروا يعملوا لك حفلة مفاجأة. السرية كانت ممتازة… لحد ما بلّشوا يضحكوا قبل المفاجأة! اليوم كله إلك: معايدات، كيك، وكمية رياكشنات ما إلها حل.",
+  "greetings": [
+    {
+      "from": "ميرا",
+      "text": "عدي، كل سنة وإنت بخير! 💛 صار عمرك 20، بس بالنسبة إلنا لسا بدك حدا يذكّرك تتمنى أمنية قبل ما تطفي الشموع 😂 بتمنالك سنة مليانة راحة وضحك ونجاحات وأشياء بتفرّح قلبك. حضّرنا لك هاي المفاجأة لأن يومك لازم يكون مميز… ولأننا ما بنفوّت فرصة نزعجك بمحبة! عيد ميلاد سعيد، وأول قطعة كيك إلك… إذا جوري ما سبقتك.",
+      "gif": "/reactions/daisy.gif"
+    },
+    {
+      "from": "جوري",
+      "text": "كل عام وإنت بخير يا عدي! 🌼 بتمنالك سنة حلوة مثلك، فيها ناس بتحبك، ذكريات بتضحّكك، وأحلام بتصير حقيقة. ميرا طلبت مني أحافظ على سر المفاجأة، وأنا تقريباً نجحت… تقريباً 😂 اليوم إنت نجم الحفلة، وبكرا منرجع ننكشك عادي. انبسط، اضحك، وتمنّى أمنية كبيرة. عيد ميلاد سعيد، والكيك ما بيتقسم لحاله!",
+      "gif": "/reactions/chippy.gif"
+    }
+  ],
+  "reactions": [
+    {
+      "title": "عدي لما يسمع «مفاجأة!» ويكتشف إننا فعلًا جهّزنا حفلة",
+      "gif": "/reactions/shock.gif",
+      "source": "https://giphy.com/gifs/cat-reaction-shocked-react-GolEsdC5U6QqkNih56"
+    },
+    {
+      "title": "ميرا من الصبح… حماس أكثر من صاحب عيد الميلاد",
+      "gif": "/reactions/daisy.gif",
+      "source": "https://giphy.com/gifs/happyplaceshow-OnOkdywsqEhLoqgKB7"
+    },
+    {
+      "title": "جوري لما تتذكر إنها وعدت ما تحرق المفاجأة",
+      "gif": "/reactions/cheer.gif",
+      "source": "https://giphy.com/gifs/minions-minions-2-rise-of-gru-cKbLJzS0cOTklEmzto"
+    },
+    {
+      "title": "لما يوصل الكيك ويصير أهم شخص بالغرفة",
+      "gif": "/reactions/cake.gif",
+      "source": "https://giphy.com/gifs/alexanderlansang-alexander-lansang-hr-block-DiHo7TVryeSti"
+    },
+    {
+      "title": "عدي: أنا ما برقص… بعد أول أغنية بخمس ثواني",
+      "gif": "/reactions/minion.gif",
+      "source": "https://giphy.com/gifs/minions-minions-2-rise-of-gru-StKiS6x698JAl9d6cx"
+    },
+    {
+      "title": "اللي جاي عشان يعيّدك… وعشان الكيك شوي",
+      "gif": "/reactions/chippy.gif",
+      "source": "https://giphy.com/gifs/birthday-happy-chippy-gZdrUNBYxXL9RE5oiH"
+    },
+    {
+      "title": "لما نقول آخر صورة… ونصوّر 37 صورة بعدها",
+      "gif": "/reactions/party.gif",
+      "source": "https://giphy.com/gifs/spongebob-spongebob-squarepants-nickelodeon-nye-EYIxmOr9XxQ3K"
+    },
+    {
+      "title": "الرقصة الرسمية بعد أول قطعة كيك",
+      "gif": "/reactions/cakedance.gif",
+      "source": "https://giphy.com/gifs/studiosoriginals-jCz1AWFI4SnRzCmj9l"
+    },
+    {
+      "title": "خلصنا المعايدات؟ ممتاز… هلق نبلّش الحفلة من أول وجديد",
+      "gif": "/reactions/cat.gif",
+      "source": "https://giphy.com/gifs/mikitti-cat-kitty-funnycat-POMWNZXxzqVrYiyGqS"
+    }
+  ],
+  "wishes": [
+    "سنة مليانة ضحك من القلب.",
+    "أصدقاء يفرحوا لك بكل إنجاز.",
+    "خبر حلو يجيك بلا انتظار.",
+    "حلم قديم يصير حقيقة.",
+    "وقت أكثر للأشياء اللي بتحبها.",
+    "نجاحات تخلّيك فخور بنفسك.",
+    "نوم هادي وصباحات أريح.",
+    "أيام أخفّ وقلب مرتاح.",
+    "خطوة جديدة توصلك لمكان بتحبه.",
+    "طلعة حلوة وصور بتضحّكك.",
+    "ناس تفهمك وتقدّرك.",
+    "مغامرة تحكي عنها طول السنة.",
+    "كيك كثير… وأول قطعة إلك.",
+    "شجاعة تبدأ شي جديد.",
+    "فرصة تجيك بالوقت الصح.",
+    "ذكريات أجمل من كل الصور.",
+    "ضحكة تخليك تنسى التعب.",
+    "سنة تفاجئك بالأحلى.",
+    "راحة بال وقدرة تستمتع بالطريق.",
+    "العشرين تكون بداية أحلى فصولك."
+  ]
+}
